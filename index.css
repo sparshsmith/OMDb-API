@@ -1,0 +1,23 @@
+body { 
+	background: url("cinema.jpg") no-repeat center center fixed; 
+	background-size: cover;
+}
+.search{
+	height: auto;
+	width: 100%;
+	margin: 20px;
+	border: solid 1px;
+	border-radius: 20px;
+	border-color: black;
+	background-color: rgba(0,0,0,0.6);
+}
+.search-box{
+	padding: 10px;
+	align-self: center;
+}
+.card{
+	margin: 10px;
+}
+#result-card{
+	display: none;
+}
